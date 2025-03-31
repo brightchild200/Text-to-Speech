@@ -65,9 +65,5 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 If you have any questions or feedback, please feel free to reach out to me at brightchild.riya@gmail.com
 
----
 
 Happy coding!
-```
-
-You can customize this `README.md` file further based on your project's specific details and preferences. Once done, you can add it to your repository.
